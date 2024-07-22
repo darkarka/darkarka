@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @darkarka
+- 👋 Hi, I’m Arka Bhattacharjee
 - 👀 I’m interested in software devolopment and cyber security 
-- 🌱 I’m currently learning c , c++ , python 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning c , c++ , python , nmap and many more
+- 💞️ I’m looking to collaborate on ML , Low-level projects
 - 📫 How to reach me arkabhattacharjee2000@gmail.com or +918617791327
 
 <!---
